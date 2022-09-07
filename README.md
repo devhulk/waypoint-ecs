@@ -1,1 +1,1 @@
-# waypoint-ecs
+# waypoint-demo
